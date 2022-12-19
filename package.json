@@ -1,0 +1,12 @@
+{
+  "name": "sasha-metz.io",
+  "version": "1.0.0",
+  "description": "My (sasha) final portfolio project to present ",
+  "main": "index.html",
+  "author": "Sasha Metz",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "yarn": "^1.22.19"
+  }
+}
